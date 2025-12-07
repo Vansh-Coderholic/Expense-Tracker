@@ -10,17 +10,17 @@ It allows users to add, edit, delete, and filter expenses, view category-wise br
 - Date picker
 
 ✔️Edit & Delete Expenses
-Update previously added expense
-Delete with confirmation
+- Update previously added expense
+- Delete with confirmation
 
 ✔️Filters
-Filter by date range
-Filter by category
-Automatically recalculates total and charts
+- Filter by date range
+- Filter by category
+- Automatically recalculates total and charts
 
 ✔️Charts
-Pie Chart – Category-wise expense distribution
-Line Chart – Daily spending trend
+- Pie Chart – Category-wise expense distribution
+- Line Chart – Daily spending trend
 
 ✔️ CSV Export
-Exports filtered data
+- Exports filtered data
