@@ -4,10 +4,10 @@ It allows users to add, edit, delete, and filter expenses, view category-wise br
 
 # Features
 ✔️Add Expenses
-Description
-Amount
-Category
-Date picker
+- Description
+- Amount
+- Category
+- Date picker
 
 ✔️Edit & Delete Expenses
 Update previously added expense
